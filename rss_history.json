@@ -2310,6 +2310,18 @@
         "link": "https://www.qbitai.com/2025/12/359261.html",
         "published_date": "Sat, 06 Dec 2025 02:38:00 GMT",
         "first_seen": "2025-12-06T05:25:20.688465"
+      },
+      "80db44f8090fd25c7c4f78fc0e2e32cb8756d3de313fcc3121b6f140b33d4f04": {
+        "title": "英伟达巧用8B模型秒掉GPT-5，开源了",
+        "link": "https://www.qbitai.com/2025/12/359417.html",
+        "published_date": "Sat, 06 Dec 2025 06:10:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.559359"
+      },
+      "0ce472949f5054c4aba6c2fa7da682b84cd6cd268886b817763c2275f6b03183": {
+        "title": "SpaceX估值8000亿美元超OpenAI，IPO就在明年",
+        "link": "https://www.qbitai.com/2025/12/359371.html",
+        "published_date": "Sat, 06 Dec 2025 06:04:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.559528"
       }
     },
     "Technology": {
@@ -13454,13 +13466,49 @@
         "link": "https://www.infoq.cn/article/FHfdLrAsZ3kDjaidakob?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 06 Dec 2025 08:00:00 GMT",
         "first_seen": "2025-12-06T05:26:09.126798"
+      },
+      "75c3c95cb3d4bc496cc4ef66222cefad21f7bfd91167355bf29831aa3d7760a7": {
+        "title": "黄峥去哪儿了",
+        "link": "https://www.tmtpost.com/7799084.html",
+        "published_date": "Sat, 06 Dec 2025 15:26:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.616918"
+      },
+      "b9747f7387dedfaef505ceb94dcab6d4aabda2566318de91b6c4b315d70d1cd9": {
+        "title": "好莱坞的鱼头终于朝向了奈飞",
+        "link": "https://www.tmtpost.com/7798937.html",
+        "published_date": "Sat, 06 Dec 2025 13:39:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.617030"
+      },
+      "6a8ac69d0339021f752b635eaefc7172db8a31dbc59a93796220887db5dfb7d0": {
+        "title": "关于动态血糖仪，厂商没说的",
+        "link": "https://sspai.com/post/104274",
+        "published_date": "Sat, 06 Dec 2025 15:13:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.617153"
+      },
+      "1fe353906ee719dadad157873b29b440468fdca205af878fc1f7875d0cc6c4fc": {
+        "title": "探索·向上！极客公园 2025 年度「InnoForce 50」发布",
+        "link": "http://www.geekpark.net/news/357690",
+        "published_date": "Sat, 06 Dec 2025 14:48:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.617317"
+      },
+      "5754d31458ac0479f64327a0b71701daea3a6a699f1f9c91e09911e32b66a448": {
+        "title": "现在做短剧，还能赚大钱吗？",
+        "link": "http://www.geekpark.net/news/357689",
+        "published_date": "Sat, 06 Dec 2025 13:32:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.617465"
+      },
+      "f63731548b4a54c206d1f43b0e13e301aed9f573f34915f8b3eb65492a2309f5": {
+        "title": "中国汽车的真正考验，才刚开始",
+        "link": "http://www.huxiu.com/article/4811722.html?f=wangzhan",
+        "published_date": "Sat, 06 Dec 2025 07:38:00 GMT",
+        "first_seen": "2025-12-06T08:26:16.617647"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-06T05:25:20.708324",
-    "Technology": "2025-12-06T05:26:09.128363",
-    "Finance": "2025-12-06T05:25:20.580795"
+    "AI": "2025-12-06T08:26:16.579916",
+    "Technology": "2025-12-06T08:26:16.625312",
+    "Finance": "2025-12-06T08:26:16.452336"
   }
 }
